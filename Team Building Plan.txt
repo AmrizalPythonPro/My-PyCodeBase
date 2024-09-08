@@ -15,3 +15,5 @@ This division will specialize in designing, training, and deploying machine lear
 Focused on data gathering through web scraping, this team will use tools like BeautifulSoup and Scrapy to automate the extraction of valuable information from websites, helping the data science team.
 
 By organizing the team into these divisions, we can ensure that each area is covered efficiently, leading to well-rounded and innovative project outcomes.
+
+Thanks!
